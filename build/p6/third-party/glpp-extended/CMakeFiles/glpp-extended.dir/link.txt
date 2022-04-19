@@ -1,0 +1,2 @@
+/usr/bin/ar qc libglpp-extended.a  CMakeFiles/glpp-extended.dir/src/Program.cpp.o CMakeFiles/glpp-extended.dir/src/RenderTarget.cpp.o
+/usr/bin/ranlib libglpp-extended.a

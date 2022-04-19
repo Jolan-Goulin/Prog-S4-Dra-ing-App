@@ -1,0 +1,2 @@
+/usr/bin/ar qc libglpp.a  CMakeFiles/glpp.dir/src/glpp/check_errors.cpp.o CMakeFiles/glpp.dir/src/glpp/Functions/Texture.cpp.o CMakeFiles/glpp.dir/src/glpp/Functions/Program.cpp.o CMakeFiles/glpp.dir/src/glpp/Functions/Framebuffer.cpp.o CMakeFiles/glpp.dir/src/glpp/Functions/Miscellaneous.cpp.o CMakeFiles/glpp.dir/src/glpp/internal/assert_is_bound.cpp.o
+/usr/bin/ranlib libglpp.a

@@ -1,0 +1,247 @@
+[
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -Werror -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/SimpleCpp.dir/src/brush.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/brush.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/brush.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -Werror -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/SimpleCpp.dir/src/brushStore.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/brushStore.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/brushStore.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -Werror -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/SimpleCpp.dir/src/main.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/main.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/main.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/Context.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/Context.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/Context.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/Shader.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/Shader.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/Shader.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/Canvas.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/Canvas.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/Canvas.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/Image.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/Image.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/Image.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/math.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/math.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/math.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/Transform2D.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/Transform2D.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/Transform2D.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/details/UniqueGlfwWindow.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/details/UniqueGlfwWindow.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/details/Time/Clock.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/details/Time/Clock.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/details/Time/Clock.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/details/Time/Clock_FixedTimestep.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/details/Time/Clock_FixedTimestep.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/details/Time/Clock_Realtime.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/details/Time/Clock_Realtime.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/op/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\"  -g   -std=gnu++17 -o CMakeFiles/p6.dir/src/details/RectRenderer.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/details/RectRenderer.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/src/details/RectRenderer.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\"  -g   -std=gnu++17 -o CMakeFiles/glpp-extended.dir/src/Program.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/src/Program.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/src/Program.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glm\"  -g   -std=gnu++17 -o CMakeFiles/glpp-extended.dir/src/RenderTarget.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/src/RenderTarget.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/src/RenderTarget.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/usr/bin/clang-7  -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\"  -g   -o CMakeFiles/glad.dir/third-party/glad/src/glad.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/src/glad.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/src/glad.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/usr/bin/clang++-7  -DGLPP_SHOULD_CHECK_ERRORS -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\"  -g   -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/check_errors.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/usr/bin/clang++-7  -DGLPP_SHOULD_CHECK_ERRORS -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\"  -g   -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/Functions/Texture.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Texture.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Texture.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/usr/bin/clang++-7  -DGLPP_SHOULD_CHECK_ERRORS -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\"  -g   -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/Functions/Program.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/usr/bin/clang++-7  -DGLPP_SHOULD_CHECK_ERRORS -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\"  -g   -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/Functions/Framebuffer.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/usr/bin/clang++-7  -DGLPP_SHOULD_CHECK_ERRORS -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\"  -g   -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/Functions/Miscellaneous.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/usr/bin/clang++-7  -DGLPP_SHOULD_CHECK_ERRORS -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include\"  -g   -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/internal/assert_is_bound.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/assert_is_bound.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/assert_is_bound.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img",
+  "command": "/usr/bin/clang++-7    -g   -o CMakeFiles/stb_image.dir/lib/stb_image/stb_image.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/lib/stb_image/stb_image.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/lib/stb_image/stb_image.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img",
+  "command": "/usr/bin/clang++-7    -g   -o CMakeFiles/stb_image.dir/lib/stb_image/stb_image_write.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/lib/stb_image/stb_image_write.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/lib/stb_image/stb_image_write.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/lib\"  -g   -std=gnu++17 -o CMakeFiles/img.dir/src/Save.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/src/Save.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/src/Save.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img",
+  "command": "/usr/bin/clang++-7   -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/lib\"  -g   -std=gnu++17 -o CMakeFiles/img.dir/src/Load.cpp.o -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/src/Load.cpp\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/img/src/Load.cpp"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/context.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/context.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/context.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/init.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/init.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/init.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/input.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/input.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/input.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/monitor.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/monitor.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/monitor.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/platform.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/platform.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/platform.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/vulkan.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/vulkan.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/vulkan.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/window.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/window.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/window.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/egl_context.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/egl_context.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/egl_context.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/osmesa_context.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/osmesa_context.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/null_init.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/null_init.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/null_init.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/null_monitor.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/null_monitor.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/null_monitor.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/null_window.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/null_window.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/null_window.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/null_joystick.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/null_joystick.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/null_joystick.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_module.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/posix_module.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/posix_module.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_time.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/posix_time.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/posix_time.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_thread.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/posix_thread.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/posix_thread.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_init.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/x11_init.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/x11_init.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_monitor.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/x11_monitor.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/x11_monitor.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_window.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/x11_window.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/x11_window.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/xkb_unicode.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/xkb_unicode.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/xkb_unicode.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/glx_context.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/glx_context.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/glx_context.c"
+},
+{
+  "directory": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src",
+  "command": "/usr/bin/clang-7 -D_DEFAULT_SOURCE -D_GLFW_X11 -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/include\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src\" -I\"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src\"  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/linux_joystick.c.o   -c \"/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/linux_joystick.c\"",
+  "file": "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/p6/third-party/glfw/src/linux_joystick.c"
+}
+]
