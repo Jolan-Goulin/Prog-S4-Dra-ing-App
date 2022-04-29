@@ -673,4 +673,5 @@ CMakeFiles/SimpleCpp.dir/src/main.cpp.o
  ../p6/third-party/glpp-extended/src/internal/TextureBase.tpp
  ../p6/third-party/op/include/op/op.hpp
  ../src/brush.h
+ ../src/brushStore.h
  /home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/main.cpp

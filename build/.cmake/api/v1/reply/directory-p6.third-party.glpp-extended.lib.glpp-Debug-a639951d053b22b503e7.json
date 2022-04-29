@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "p6/third-party/glpp-extended/lib/glpp",
+		"source" : "p6/third-party/glpp-extended/lib/glpp"
+	}
+}

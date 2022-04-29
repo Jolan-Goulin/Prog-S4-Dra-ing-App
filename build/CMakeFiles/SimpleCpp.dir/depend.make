@@ -672,5 +672,6 @@ CMakeFiles/SimpleCpp.dir/src/main.cpp.o: ../p6/third-party/glpp-extended/src/int
 CMakeFiles/SimpleCpp.dir/src/main.cpp.o: ../p6/third-party/glpp-extended/src/internal/TextureBase.tpp
 CMakeFiles/SimpleCpp.dir/src/main.cpp.o: ../p6/third-party/op/include/op/op.hpp
 CMakeFiles/SimpleCpp.dir/src/main.cpp.o: ../src/brush.h
+CMakeFiles/SimpleCpp.dir/src/main.cpp.o: ../src/brushStore.h
 CMakeFiles/SimpleCpp.dir/src/main.cpp.o: ../src/main.cpp
 

@@ -1,77 +1,60 @@
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/SimpleCpp.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/install.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/CMakeFiles/p6.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/CMakeFiles/install.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/CMakeFiles/glpp-extended.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/CMakeFiles/install.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glad.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/install.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/uninstall.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/install.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/install.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img/CMakeFiles/stb_image.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img/CMakeFiles/img.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/img/CMakeFiles/install.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/op/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/op/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/op/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/op/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/op/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/op/CMakeFiles/install.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/CMakeFiles/install.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src/CMakeFiles/glfw.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src/CMakeFiles/update_mappings.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/src/CMakeFiles/install.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/docs/CMakeFiles/install/strip.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/docs/CMakeFiles/edit_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/docs/CMakeFiles/rebuild_cache.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/docs/CMakeFiles/list_install_components.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/docs/CMakeFiles/install/local.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/docs/CMakeFiles/docs.dir
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/p6/third-party/glfw/docs/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/CMakeFiles/SimpleCpp.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/CMakeFiles/edit_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/CMakeFiles/rebuild_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/CMakeFiles/list_install_components.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/CMakeFiles/install/local.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/CMakeFiles/p6.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/CMakeFiles/edit_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/CMakeFiles/rebuild_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/CMakeFiles/list_install_components.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/CMakeFiles/install/local.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/CMakeFiles/glpp-extended.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/CMakeFiles/edit_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/CMakeFiles/rebuild_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/CMakeFiles/list_install_components.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/CMakeFiles/install/local.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glpp.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/glad.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/edit_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/rebuild_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/list_install_components.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glpp/CMakeFiles/install/local.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/uninstall.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/edit_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/rebuild_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/list_install_components.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/CMakeFiles/install/local.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/edit_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/rebuild_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/list_install_components.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glpp-extended/lib/glm/glm/CMakeFiles/install/local.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/img/CMakeFiles/img.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/img/CMakeFiles/stb_image.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/img/CMakeFiles/edit_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/img/CMakeFiles/rebuild_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/img/CMakeFiles/list_install_components.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/img/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/img/CMakeFiles/install/local.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/op/CMakeFiles/edit_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/op/CMakeFiles/rebuild_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/op/CMakeFiles/list_install_components.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/op/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/op/CMakeFiles/install/local.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/CMakeFiles/edit_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/CMakeFiles/rebuild_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/CMakeFiles/list_install_components.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/CMakeFiles/install/local.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/src/CMakeFiles/glfw.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/src/CMakeFiles/edit_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/src/CMakeFiles/rebuild_cache.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/src/CMakeFiles/list_install_components.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/src/CMakeFiles/install.dir
+C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/p6/third-party/glfw/src/CMakeFiles/install/local.dir
