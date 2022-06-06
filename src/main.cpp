@@ -4,7 +4,6 @@
 #include <iostream>
 #include <p6/p6.h>
 
-
 int main() {
   try {
     // Create the Context by giving the initial size and name of our window
@@ -49,7 +48,6 @@ int main() {
       //  Clear the objects that were drawn during the previous update
       ctx.background({0.5f, 0.3f, 0.8f});
       ctx.image(canvas);
-
       if (ctx.shift()) {
         ctx.render_to_canvas(canvas);
         defaultBrush.brush(); // We can do some permanent drawings on our canvas
