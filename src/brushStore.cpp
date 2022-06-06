@@ -6,14 +6,14 @@ int counter = 0;
 std::vector<BrushUI> brush_table(p6::Context &ctx) {
 
   std::vector<BrushUI> brush_store;
-  const auto brush_default = [&]() {
+  const auto brush_default_asset = [&]() {
     ctx.use_stroke = false;
     ctx.fill = {0.2f, 0.5f, 0.7f, 1.f};
     ctx.circle(p6::Center{ctx.mouse()}, p6::Radius{0.04f});
     last_point = ctx.mouse();
   };
 
-  const auto brush_rainbow_semi_sines = [&]() {
+  const auto brush_rainbow_semi_sines_asset = [&]() {
     counter++;
     if (counter % 3 == 0) {
       ctx.use_stroke = false;
@@ -26,23 +26,24 @@ std::vector<BrushUI> brush_table(p6::Context &ctx) {
     }
   };
 
-  Brush rainbow_semi_lines_brush{brush_rainbow_semi_sines, brush_default};
+  Brush rainbow_semi_lines_brush{brush_rainbow_semi_sines_asset,
+                                 brush_default_asset};
   BrushUI rainbow_semi_lines_brush_UI{glm::vec2{-1.6f, 0.8f},
                                       "./../../assets/image.jpg",
                                       rainbow_semi_lines_brush};
 
-  const auto brush_circle = [&]() {
+  const auto brush_circle_asset = [&]() {
     ctx.use_stroke = false;
     ctx.fill = {0.2f, 0.5f, 0.7f, 0.2f};
     ctx.circle(p6::Center{ctx.mouse()}, p6::Radius{1.01f});
     last_point = ctx.mouse();
   };
 
-  Brush circle_brush{brush_circle, brush_circle};
+  Brush circle_brush{brush_circle_asset, brush_circle_asset};
   BrushUI circle_brush_UI{glm::vec2{-1.6f, 0.6f}, "./../../assets/image.jpg",
                           circle_brush};
 
-  const auto brush_line = [&]() {
+  const auto brush_line_asset = [&]() {
     ctx.use_stroke = true;
     ctx.fill = {0.2f, 0.5f, 0.7f, 1.f};
     ctx.line(last_point, ctx.mouse());
@@ -60,12 +61,12 @@ std::vector<BrushUI> brush_table(p6::Context &ctx) {
     ctx.line(last_point, ctx.mouse());
     ctx.circle(p6::Center{ctx.mouse()}, p6::Radius{0.01f});
   };
-  Brush line_brush{brush_line, brush_line_stand};
+  Brush line_brush{brush_line_asset, brush_line_stand};
   BrushUI line_brush_UI{glm::vec2{-1.6f, 0.4f}, "./../../assets/image.jpg",
                         line_brush};
   brush_store.push_back(line_brush_UI);
 
-  const auto brush_aerograph = [&]() {
+  const auto brush_aerograph_asset = [&]() {
     ctx.use_stroke = false;
     if (last_point != ctx.mouse()) {
       ctx.fill = {0.2f, 0.5f, 0.7f, 0.8f};
@@ -82,18 +83,18 @@ std::vector<BrushUI> brush_table(p6::Context &ctx) {
     last_point = ctx.mouse();
   };
 
-  Brush aerograph_brush{brush_aerograph, brush_aerograph};
+  Brush aerograph_brush{brush_aerograph_asset, brush_aerograph_asset};
   BrushUI aerograph_brush_UI{glm::vec2{-1.6f, 0.2f}, "./../../assets/image.jpg",
                              aerograph_brush};
 
-  const auto brush_square = [&]() {
+  const auto brush_square_asset = [&]() {
     ctx.use_stroke = true;
     ctx.fill = {0.2f, 0.5f, 0.7f, 1.f};
     p6::Angle rotation = 0.0_turn;
     ctx.rectangle(p6::Center{ctx.mouse()}, p6::Radii{0.05f, 0.05f},
                   p6::Rotation{rotation});
   };
-  Brush square_brush{brush_square, brush_square};
+  Brush square_brush{brush_square_asset, brush_square_asset};
   BrushUI square_brush_UI{glm::vec2{-1.6f, 0.f}, "./../../assets/image.jpg",
                           square_brush};
 
@@ -105,12 +106,12 @@ std::vector<BrushUI> brush_table(p6::Context &ctx) {
 }
 
 Brush default_brush(p6::Context &ctx) {
-  const auto brush_default = [&]() {
+  const auto brush_default_asset = [&]() {
     ctx.use_stroke = false;
     ctx.fill = {0.2f, 0.5f, 0.7f, 1.f};
     ctx.circle(p6::Center{ctx.mouse()}, p6::Radius{0.04f});
     last_point = ctx.mouse();
   };
 
-  return Brush{brush_default, brush_default};
+  return Brush{brush_default_asset, brush_default_asset};
 };

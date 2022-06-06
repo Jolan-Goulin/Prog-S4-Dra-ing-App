@@ -1,6 +1,5 @@
 
 #include <brushStore.h>
-#include <colorPicker.h>
 #include <iostream>
 #include <p6/p6.h>
 
@@ -32,7 +31,6 @@ int main() {
         ctx.framebuffer_size()}; // Create an empty canvas with the same size as
                                  // the window's framebuffer
     ctx.render_to_canvas(canvasBrush);
-    draw_colorpicker(ctx);
     for (size_t i = 0; i < brushes.size(); i++) {
       brushes[i].draw_brush(ctx);
     }
