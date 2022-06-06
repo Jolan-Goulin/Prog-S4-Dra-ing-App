@@ -31,8 +31,8 @@ int main() {
         ctx.framebuffer_size()}; // Create an empty canvas with the same size as
                                  // the window's framebuffer
     ctx.render_to_canvas(canvasBrush);
-    for (size_t i = 0; i < brushes.size(); i++) {
-      brushes[i].draw_brush(ctx);
+    for (BrushUI brush_ui : brushes) {
+      brush_ui.draw_brush(ctx);
     }
     ctx.render_to_screen();
 
