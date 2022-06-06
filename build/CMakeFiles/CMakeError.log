@@ -49,39 +49,3 @@ make[1] : on quitte le répertoire « /home/6ima2/jolan.goulin/Bureau/projet c
 make: *** [Makefile:121: cmTC_df18d/fast] Error 2
 
 
-Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
-Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe 
-Build flags: 
-Id flags:  
-
-The output was:
-1
-clang-cl: error: unable to execute command: program not executable
-clang-cl: error: linker command failed with exit code 1 (use -v to see invocation)
-
-
-Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
-Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe 
-Build flags: 
-Id flags:  
-
-The output was:
-1
-clang-cl: error: unable to execute command: program not executable
-clang-cl: error: linker command failed with exit code 1 (use -v to see invocation)
-
-
-Determining if the include file pthread.h exists failed with the following output:
-Change Dir: C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/CMakeFiles/CMakeTmp
-
-Run Build Command(s):C:/PROGRA~1/MICROS~4/2022/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_9a6de && [1/2] Building C object CMakeFiles\cmTC_9a6de.dir\CheckIncludeFile.c.obj
-FAILED: CMakeFiles/cmTC_9a6de.dir/CheckIncludeFile.c.obj 
-C:\PROGRA~1\MICROS~4\2022\COMMUN~1\VC\Tools\Llvm\x64\bin\clang-cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_9a6de.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_9a6de.dir\ -c -- C:\Users\gouli\OneDrive\Bureau\Drawing_App\Prog-S4-Dra-ing-App\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
-C:\Users\gouli\OneDrive\Bureau\Drawing_App\Prog-S4-Dra-ing-App\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error: 'pthread.h' file not found
-#include <pthread.h>
-         ^~~~~~~~~~~
-1 error generated.
-ninja: build stopped: subcommand failed.
-
-
-

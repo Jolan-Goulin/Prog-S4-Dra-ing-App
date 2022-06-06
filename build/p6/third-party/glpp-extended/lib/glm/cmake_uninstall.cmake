@@ -1,14 +1,14 @@
-if(NOT EXISTS "C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/install_manifest.txt")
-  message(FATAL_ERROR "Cannot find install manifest: C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/install_manifest.txt")
+if(NOT EXISTS "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/install_manifest.txt")
+  message(FATAL_ERROR "Cannot find install manifest: /home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/install_manifest.txt")
 endif()
 
-file(READ "C:/Users/gouli/OneDrive/Bureau/Drawing_App/Prog-S4-Dra-ing-App/build/install_manifest.txt" files)
+file(READ "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 foreach(file ${files})
   message(STATUS "Uninstalling $ENV{DESTDIR}${file}")
   if(IS_SYMLINK "$ENV{DESTDIR}${file}" OR EXISTS "$ENV{DESTDIR}${file}")
     exec_program(
-      "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe" ARGS "-E remove \"$ENV{DESTDIR}${file}\""
+      "/usr/bin/cmake" ARGS "-E remove \"$ENV{DESTDIR}${file}\""
       OUTPUT_VARIABLE rm_out
       RETURN_VALUE rm_retval
       )

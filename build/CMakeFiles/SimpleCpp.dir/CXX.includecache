@@ -1614,25 +1614,13 @@ TextureBase.tpp
 
 ../p6/third-party/op/include/op/op.hpp
 
-../src/brush.h
+../src/colorPicker.h
 p6/p6.h
 -
 iostream
 -
 
-../src/brushStore.h
-p6/p6.h
--
-iostream
--
-brush.h
--
-
-/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/main.cpp
-p6/p6.h
--
-iostream
--
-brushStore.h
+/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/colorPicker.cpp
+colorPicker.h
 -
 

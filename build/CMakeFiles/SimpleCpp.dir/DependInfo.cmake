@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/brush.cpp" "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/SimpleCpp.dir/src/brush.cpp.o"
   "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/brushStore.cpp" "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/SimpleCpp.dir/src/brushStore.cpp.o"
+  "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/colorPicker.cpp" "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/SimpleCpp.dir/src/colorPicker.cpp.o"
   "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/src/main.cpp" "/home/6ima2/jolan.goulin/Bureau/projet c++/Simple-Cpp-Setup-main/build/CMakeFiles/SimpleCpp.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")

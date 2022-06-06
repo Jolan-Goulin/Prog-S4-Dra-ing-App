@@ -354,6 +354,33 @@ src/brushStore.cpp.s:
 	$(MAKE) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/brushStore.cpp.s
 .PHONY : src/brushStore.cpp.s
 
+src/colorPicker.o: src/colorPicker.cpp.o
+
+.PHONY : src/colorPicker.o
+
+# target to build an object file
+src/colorPicker.cpp.o:
+	$(MAKE) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/colorPicker.cpp.o
+.PHONY : src/colorPicker.cpp.o
+
+src/colorPicker.i: src/colorPicker.cpp.i
+
+.PHONY : src/colorPicker.i
+
+# target to preprocess a source file
+src/colorPicker.cpp.i:
+	$(MAKE) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/colorPicker.cpp.i
+.PHONY : src/colorPicker.cpp.i
+
+src/colorPicker.s: src/colorPicker.cpp.s
+
+.PHONY : src/colorPicker.s
+
+# target to generate assembly for a file
+src/colorPicker.cpp.s:
+	$(MAKE) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/colorPicker.cpp.s
+.PHONY : src/colorPicker.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -410,6 +437,9 @@ help:
 	@echo "... src/brushStore.o"
 	@echo "... src/brushStore.i"
 	@echo "... src/brushStore.s"
+	@echo "... src/colorPicker.o"
+	@echo "... src/colorPicker.i"
+	@echo "... src/colorPicker.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
